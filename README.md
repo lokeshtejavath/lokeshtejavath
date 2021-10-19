@@ -37,15 +37,7 @@
 - ⚡ Fun fact: Tony Stark owns area 51.
 
 ### Avenues explored (not completely though 😜)
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50px" style="margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="50px" style="margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" style="margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50px" style="margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50px" style="margin:4px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="50px" style="margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50px" style="margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="50px" style="margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50px" style="margin:4px">
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50px" style="margin:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="50px" style="margin:4px"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" style="margin:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50px" style="margin:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50px" style="margin:4px"><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="50px" style="margin:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50px" style="margin:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="50px" style="margin:4px"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50px" style="margin:4px">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshtejavath&show_icons=true&theme=radical)
 ](https://github.com/lokeshtejavath)

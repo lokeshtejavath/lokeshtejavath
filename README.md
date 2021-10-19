@@ -19,7 +19,7 @@
         <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="30px">
     </a>
     <a href="https://codeforces.com/profile/lokeshtejavath"style="margin:4px">
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAA9lBMVEX///8fisv/ySTEDhaQnKQXbaDm6OoAR3v/zCTmtRy+uq6adQAehcSJagCtAADDDhbv6+ucamu4AAD08fGSfn7e3dYAADX09vfT0csAcq8af7v39/RofI6FXwCzCBGESkwAIF6ffAAAAAAAACubAABGAABUAABNAABAAADKz9F4h5Gnsbi2ub0AADAAVIkAPnkAABYASHEAAEq/xMUUYY9uY1Clm4lcVUvClgCsgQCSjYZuTgBROQClkpJ7SUqNa2yLAAB9XF2noKE+JgDtux9vXC8AEFWmh4d5dGexq59MW2pWGhqHFBXYzs6HfVttSAAAKVEAJWHzSK+ZAAABv0lEQVR4nO3b61MSURjAYdQiFaVNJPJCF5MsNbvfNJPMKCsq//9/JmqAcuacBmaE3WWe5/M7s+e3yzfeUygAAAAAAAAAAAAAAMOqRaR9rmE92F4P28lXyu7DvZWwR+tpn20YtcdPFqbCVp8+S/t0QyhuPI90TC1cuZT26YZQ3Lg8ISF3JyXkupBsEZI1QrJGSNYIyRohWSNkrJIbEWv9kVyEVF8s3gl7mfRm8hBSffV6Omz2zX7vm+QhZP5gejYSMve22h3KRUgp0tEJOchXSKSjE7IoJAVChIzIRYYkh7eC3i0n4YdnNCQ52lwKKjffF/MUctyciWkejvxvlIsLqSyXZ65GQpaujfzHJUSIECFChAgRIkSIECFChAgRIkSIECFChAgRIkSIECHnQ+LbQRMYMsiNnpRDTuvxkHo/ZJA7Vml/kQ8n0Q26j72Qyn9uvbV2u0O1/fjCQPlTZdQhyefSXNhJ6bS/Z3rcWlkN2/vS32lof928GVb+1h51R+dtf/9RD5v/uy9b2/nZuh1wdrb9z5ZJu9G499tWV6PRuP/H1hg6OtYizg0Ndum4EjaWDAAAAAAAAAAAAAAAAIDCL43Tg/WQKyoLAAAAAElFTkSuQmCC" width="30px" style="border-radius:40%">
+        <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="30px" >
     </a>
     <a href="https://tryhackme.com/p/godofmischief69"style="margin:4px">
         <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" height="30px" >
@@ -37,4 +37,22 @@
 - ⚡ Fun fact: Tony Stark owns area 51.
 
 ### Avenues explored (not completely though 😜)
-<!-- ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png) -->
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50px" style="margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="50px" style="margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" style="margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50px" style="margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50px" style="margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="50px" style="margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50px" style="margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="50px" style="margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50px" style="margin:4px">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshtejavath&show_icons=true&theme=radical)
+](https://github.com/lokeshtejavath)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshtejavath&show_icons=true&theme=radical&layout=compact&langs_count=8)](https://github.com/lokeshtejavath)
+
+
+### Random joke :P
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+

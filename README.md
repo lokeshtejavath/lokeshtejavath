@@ -42,17 +42,29 @@
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
 
-### Avenues explored (not completely though 😜)
+### Avenues explored (no thoroughly)
 <p><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50px" >
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshtejavath&show_icons=true&theme=radical)
+[![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshtejavath&show_icons=true&theme=radical)
 ](https://github.com/lokeshtejavath)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshtejavath&show_icons=true&theme=radical&layout=compact&langs_count=8)](https://github.com/lokeshtejavath)
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshtejavath&show_icons=true&theme=radical&layout=compact&langs_count=8)](https://github.com/lokeshtejavath)
+<br>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokeshtejavath)
+<br>
+
+![](https://activity-graph.herokuapp.com/graph?username=lokeshtejavath&bg_color=073642&color=859900&line=006400&point=35aea1&area=true)
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshtejavath&theme=solarized_dark)
+<br>
 
 ### Random joke :P
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 

@@ -6,25 +6,31 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=lokeshtejavath.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" >
 
 <p align="center">
-    <a href="https://www.facebook.com/lokeshexe" style="margin:4px;padding:4px">
+    <a href="https://www.facebook.com/lokeshexe" >
         <img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" width="30px">
     </a>
-    <a href="https://www.instagram.com/lokesh.exe/"style="margin:4px;padding:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px">
+    <a href="https://www.instagram.com/lokesh.exe/">
         <img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png" width="30px">
     </a>
-    <a href="https://www.codechef.com/users/lokeshtejavath"style="margin:4px;padding:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px">
+    <a href="https://www.codechef.com/users/lokeshtejavath">
         <img src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" width="35px" height="40px">
     </a>
-    <a href="https://leetcode.com/lokeshtejavath/"style="margin:4px;padding:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"> 
+    <a href="https://leetcode.com/lokeshtejavath/">
         <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="30px">
     </a>
-    <a href="https://codeforces.com/profile/lokeshtejavath"style="margin:4px;padding:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px">
+    <a href="https://codeforces.com/profile/lokeshtejavath">
         <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="30px" >
     </a>
-    <a href="https://tryhackme.com/p/godofmischief69"style="margin:4px;padding:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px">
+    <a href="https://tryhackme.com/p/godofmischief69">
         <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" height="30px" >
     </a>
-    <a href="https://www.linkedin.com/in/lokesh-tejavath-09373b142/"style="margin:4px;padding:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px">
+    <a href="https://www.linkedin.com/in/lokesh-tejavath-09373b142/">
         <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-3691226-3073746.png" height="30px" >
     </a>
 </p>
@@ -37,7 +43,9 @@
 - ⚡ Fun fact: Tony Stark owns area 51.
 
 ### Avenues explored (not completely though 😜)
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50px" style="margin:4px;padding:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="50px" style="margin:4px;padding:4px;"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" style="margin:4px;padding:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50px" style="margin:4px;padding:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50px" style="margin:4px;padding:4px"><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="50px" style="margin:4px;padding:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50px" style="margin:4px;padding:4px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="50px" style="margin:4px;padding:4px"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50px" style="margin:4px;padding:4px">
+<p><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="50px" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" width="10px"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50px" >
+</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshtejavath&show_icons=true&theme=radical)
 ](https://github.com/lokeshtejavath)

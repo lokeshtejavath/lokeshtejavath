@@ -3,7 +3,7 @@
 # Lokesh Tejavath aka GodOfMischief here! 
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=lokeshtejavath.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" >
+<img src="https://komarev.com/ghpvc/?username=lokeshtejavath&label=Profile%20views&color=0e75b6&style=flat" alt="Lokesh Tejavath" />
 
 <p align="center">
     <a href="https://www.facebook.com/lokeshexe" >

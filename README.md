@@ -1,4 +1,4 @@
-<h1><a href="https://giphy.com/embed/8JTFsZmnTR1Rs1JFVP" target="_blank">Hey There</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px" height="33px"></h1>
+<h1><a href="https://giphy.com/embed/8JTFsZmnTR1Rs1JFVP" target="_blank">Hello There</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px" height="33px"></h1>
 
 # Lokesh Tejavath aka GodOfMischief here! 
 

@@ -41,7 +41,7 @@
 - 🍕 Might keep food before anything
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
-- <!--STARTS_HERE_QUOTE_README-->
+<!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
 
 

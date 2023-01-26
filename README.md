@@ -42,7 +42,7 @@
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
+<i>❝There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 

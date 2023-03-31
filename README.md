@@ -42,7 +42,7 @@
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I don’t know what the language of the year 2000 will look like, but I know it will be called Fortran.”— CA Hoare, 1982  ❞</i>
+<i>❝The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 

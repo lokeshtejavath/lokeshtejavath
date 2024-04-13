@@ -42,7 +42,7 @@
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
+<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 

@@ -42,7 +42,7 @@
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
+<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 

@@ -42,7 +42,7 @@
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original name of Windows was Interface Manager.❞</i>
+<i>❝“Passwords are like underwear: you don’t let people see it, you should change it very often, and you shouldn’t share it with strangers.”— Chris Pirillo   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 

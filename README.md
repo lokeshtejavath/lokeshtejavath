@@ -42,7 +42,7 @@
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.❞</i>
+<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 

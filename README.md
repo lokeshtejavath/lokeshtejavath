@@ -42,7 +42,7 @@
 - 📨 Reach me out at LinkedIn, Instagram or mail
 - ⚡ Fun fact: Tony Stark owns area 51.
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
+<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
